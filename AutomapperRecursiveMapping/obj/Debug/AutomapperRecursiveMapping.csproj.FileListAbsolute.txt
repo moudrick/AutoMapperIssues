@@ -1,0 +1,8 @@
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutomapperRecursiveMapping\bin\Debug\AutomapperRecursiveMapping.dll
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutomapperRecursiveMapping\bin\Debug\AutomapperRecursiveMapping.pdb
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutomapperRecursiveMapping\bin\Debug\AutoMapper.dll
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutomapperRecursiveMapping\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutomapperRecursiveMapping\bin\Debug\AutoMapper.xml
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutomapperRecursiveMapping\obj\Debug\AutomapperRecursiveMapping.csprojResolveAssemblyReference.cache
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutomapperRecursiveMapping\obj\Debug\AutomapperRecursiveMapping.dll
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutomapperRecursiveMapping\obj\Debug\AutomapperRecursiveMapping.pdb

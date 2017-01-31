@@ -1,0 +1,9 @@
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutoMapperIssue\obj\Debug\AutoMapperIssue.csprojResolveAssemblyReference.cache
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutoMapperIssue\bin\Debug\AutoMapperIssue.dll
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutoMapperIssue\bin\Debug\AutoMapperIssue.pdb
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutoMapperIssue\bin\Debug\AutoMapper.dll
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutoMapperIssue\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutoMapperIssue\bin\Debug\AutoMapper.pdb
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutoMapperIssue\bin\Debug\AutoMapper.xml
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutoMapperIssue\obj\Debug\AutoMapperIssue.dll
+D:\01\sav\AutoMapperIssue\AutoMapperIssue\AutoMapperIssue\obj\Debug\AutoMapperIssue.pdb
